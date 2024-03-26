@@ -1,5 +1,6 @@
 Builds an extension that adds the expected reading time to any Chrome extension and Chrome Web Store documentation page.
 
+
 Here are a few pages you can open to see how long each article will take to read:
 https://developer.chrome.com/docs/extensions/develop/concepts/content-scripts
 
