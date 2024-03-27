@@ -1,1 +1,0 @@
-This chrome extension performs several tasks: querying tabs that match specific URLs, sorting these tabs alphabetically by their titles, dynamically generating clickable list items for each tab in the popup, and providing a button to group these tabs into a tab group.
